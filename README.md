@@ -1,6 +1,3 @@
----
-   layout: single
-  ---
 # Caitlin Lai-Yee Mah
 
 *University of Toronto* | [[LinkedIn](https://www.linkedin.com/in/caitlin-mah/)] | [clmah918@gmail.com]
