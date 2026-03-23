@@ -6,10 +6,12 @@
 
 ## EDUCATION
 **Munk School of Global Affairs and Public Policy, University of Toronto** | Sep. 2026
+
 *Master of Public Policy, Concentration in Economics*                                                               
 * Admitted for Fall 2026 entry with scholarship
 
 **University of Toronto** | *Sep. 2022 - present*
+
 *Honours Bachelor of Arts, Political Science*
 * **cGPA:** 3.98/4.00
 * **Awards:** Dean’s Scholar (2023-present); Pauline Mills McGibbon Scholarship for Excellence in Studies (2023, 2024); Goodison-Chamberlin Poetry Prize (2023); British Columbia District Authority & Achievement Scholarships (2022)
