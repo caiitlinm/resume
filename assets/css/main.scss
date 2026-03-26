@@ -1,0 +1,84 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* Dark skin */
+body {
+  background-color: #252525;
+  color: #eaeaea;
+}
+
+.page {
+  background-color: #252525;
+  color: #eaeaea;
+}
+
+a {
+  color: #fb8500;
+}
+
+.sidebar {
+  background-color: #1f1f1f;
+  color: #eaeaea;
+  font-size: 1rem;
+  padding: 1rem;
+  margin-top: 2rem;
+}
+
+.sidebar__right {
+  background-color: #1f1f1f;
+  color: #eaeaea;
+  font-size: 1rem;
+  padding: 1rem;
+}
+
+.author__name {
+  font-size: 1.1rem !important;
+  margin-bottom: 0.25rem !important;
+}
+
+
+.sidebar p {
+  font-size: 0.9rem !important;
+}
+
+.author__urls.social-icons a[href*="github"] {
+  color: #ffffff;
+}
+
+.author__urls.social-icons a[href*="github"] i,
+.author__urls.social-icons a[href*="github"] .svg-inline--fa {
+  color: #ffffff !important;
+}
+
+.author__location i,
+.author__location .svg-inline--fa {
+  color: #ffffff !important;
+}
+
+.sidebar .fa-map-marker,
+.sidebar .fa-location-dot,
+.sidebar [class*="fa-map"] {
+  color: #ffffff !important;
+}
+
+.author__urls.social-icons a[href*="mailto"] i,
+.author__urls.social-icons a[href*="mailto"] .svg-inline--fa {
+  color: #ffffff !important;
+}
+
+.page__content {
+  color: #eaeaea;
+  font-size: 0.675rem;
+  padding-top: 3rem;
+}
+
+p {
+  color: #eaeaea;
+  font-size: 0.675rem;
+}
+
+.masthead {
+  display: none;
+}

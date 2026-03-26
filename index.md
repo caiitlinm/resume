@@ -1,42 +1,34 @@
-# Caitlin Lai-Yee Mah
-
-*University of Toronto* | [[LinkedIn](https://www.linkedin.com/in/caitlin-mah/)] | [clmah918@gmail.com]
-
+---
+layout: single
+author_profile: true
+title: ""
 ---
 
 ## EDUCATION
-**Munk School of Global Affairs and Public Policy, University of Toronto** | Sep. 2026
+**Munk School of Global Affairs and Public Policy, University of Toronto** | *Sep. 2026*  
+*Master of Public Policy*  
+* stay tuned!
 
-*Master of Public Policy, Concentration in Economics*                                                               
-* Admitted for Fall 2026 entry with scholarship
-
-**University of Toronto** | *Sep. 2022 - present*
-
+**University of Toronto** | *Sep. 2022 - present*  
 *Honours Bachelor of Arts, Political Science*
-* **cGPA:** 3.98/4.00
-* **Awards:** Dean’s Scholar (2023-present); Pauline Mills McGibbon Scholarship for Excellence in Studies (2023, 2024); Goodison-Chamberlin Poetry Prize (2023); British Columbia District Authority & Achievement Scholarships (2022)
+  * **cGPA:** 3.98/4.00
+  * **Awards:** Dean’s Scholar (2023-present); Pauline Mills McGibbon Scholarship for Excellence in Studies (2023, 2024); Goodison-Chamberlin Poetry Prize (2023); British Columbia District Authority & Achievement Scholarships (2022)
 
-### Relevant Research
-**Investigating Toronto’s Health Landscape: geographic and socioeconomic factors in mammogram participation** | *2023*
-* Used Python, Jupyter, GeoJSON for spatial regression analysis and [visualization](https://github.com/caiitlinm/ggr-proj).
-* Accepted for presentation at Victoria College’s 20th Anniversary Research Symposium.
-
-### Relevant Upper-year Coursework
+### Coursework
 * **Analysis:** Quantitative Reasoning and Experimental Research Design, Python and Data Analysis for Social Sciences, Calculus I
 * **Institutions:** American Government and Foreign Policy, European Union: Institutions and Politics, Comparative Political and Institutional Development, International Relations, Institutional Theories of Politics
   * [Writing Samples](https://drive.google.com/drive/u/0/folders/1HaipbgditKzYQPFIsxxeTjdouvYOuZTT)
 * **Governance:** BlueDot Frontier AI Governance (in progress)
 
----
 
 ## EXPERIENCE
 
 ### Editor-in-Chief | Acta Victoriana
 *Apr. 2025 - Present*
-* Evaluate 1000+ submissions for biannual publication in as director of 8-member editorial board.
+* Evaluate 1000+ submissions for biannual publication as director of 8-member editorial board.
 * Participate in student government meetings to discuss and advise Victoria College administrative policy projects.
-* Maintain journal presence on Instagram; increased submission rate by 300% via promotion from the Griffin Poetry Prize..
-* Oversee budget for journal operations, prints, and launch events; audited semesterly
+* Maintain journal presence on Instagram; increased submission rate by 300% via promotion from the Griffin Poetry Prize.
+* Oversee budget for journal operations, prints, and launch events; audited semestrally.
 * *Associate Editor (Sep. 2022 - Apr. 2025):* Participated in board discussions to evaluate submissions for publication; copyedited and proofread pieces.
 
 ### Associate Consultant, Strategy | University of Toronto Consulting Association
@@ -56,6 +48,19 @@
 
 ### Administrative and Program Assistant | Victoria College at the University of Toronto
 *Apr. 2024 - Aug. 2024*
-* Maintained archival Excel database of administrative documents and ensured procedural compliance for documents.
+* Maintained archival Excel database of administrative documents and ensured procedural compliance.
 * Quantified, visualized, and summarized student survey data using Excel in preparation for presentation.
 * Co-facilitated the Victoria College Mentorship program (interviews, onboarding, Instagram posts).
+\
+\
+\
+\
+\
+\
+\
+\
+\
+╱|、  
+(˚ˎ 。7  
+|、˜〵  
+じしˍ,)ノ  <sub>how'd you get here?</sub>

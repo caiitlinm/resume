@@ -1,0 +1,16 @@
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-include-cache
+title: " "
+author:
+  name: Caitlin Mah
+  bio: "public policy for AI governance  📌 munk + trajectory labs"
+  location: "Toronto, ON"
+  email: clmah918@gmail.com
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/caitlin-mah/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/caiitlinm"
