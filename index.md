@@ -15,10 +15,10 @@ title: ""
   * **Awards:** Dean’s Scholar (2023-present); Pauline Mills McGibbon Scholarship for Excellence in Studies (2023, 2024); Goodison-Chamberlin Poetry Prize (2023); British Columbia District Authority & Achievement Scholarships (2022)
 
 ### Coursework
-* **Analysis:** Quantitative Reasoning and Experimental Research Design, Python and Data Analysis for Social Sciences, Calculus I
+* **Methods:** Quantitative Reasoning and Experimental Research Design, Python and Data Analysis for Social Sciences, Calculus I
 * **Institutions:** American Government and Foreign Policy, European Union: Institutions and Politics, Comparative Political and Institutional Development, International Relations, Institutional Theories of Politics
   * [Writing Samples](https://drive.google.com/drive/u/0/folders/1HaipbgditKzYQPFIsxxeTjdouvYOuZTT)
-* **Governance:** BlueDot Frontier AI Governance (in progress)
+* **AI:** BlueDot Frontier AI Governance
 
 
 ## EXPERIENCE
@@ -51,6 +51,7 @@ title: ""
 * Maintained archival Excel database of administrative documents and ensured procedural compliance.
 * Quantified, visualized, and summarized student survey data using Excel in preparation for presentation.
 * Co-facilitated the Victoria College Mentorship program (interviews, onboarding, Instagram posts).
+\
 \
 \
 \
