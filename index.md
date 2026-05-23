@@ -16,9 +16,23 @@ title: ""
 
 ### Coursework
 * **Methods:** Quantitative Reasoning and Experimental Research Design, Python and Data Analysis for Social Sciences, Calculus I
-* **Institutions:** American Government and Foreign Policy, European Union: Institutions and Politics, Comparative Political and Institutional Development, International Relations, Institutional Theories of Politics
+* **Politics:** American Government and Foreign Policy, European Union: Institutions and Politics, Comparative Political and Institutional Development, International Relations, Institutional Theories of Politics
   * [Writing Samples](https://drive.google.com/drive/u/0/folders/1HaipbgditKzYQPFIsxxeTjdouvYOuZTT)
-* **AI:** BlueDot Frontier AI Governance
+* **AI:** BlueDot Frontier AI Governance, BlueDot AI Foundations
+
+
+## RESEARCH
+
+**Affiliations:** Trajectory Labs, AIGS Canada
+
+**In progress:**
+* Middle Power Coalition Leverage for AI Governance (with Balint Hargitai et al.)
+  * [Beyond the Brussels Effect: Coalitions and Middle Power Leverage](https://youtu.be/hPiiH1Ueofg?t=1962) — talk ([slides](https://docs.google.com/presentation/d/1NATC10bWcu28zQCAG2BtUgtdLsNLFc8MoH_sSeamnNY/edit?usp=sharing))
+* Toronto AI Safety Institute summer technical intensive (upcoming, topic pending)
+
+**Publications:**
+* AI company insiders can bias models for election interference ([LessWrong](https://www.lesswrong.com/editPost?postId=E9hBpPForyHFm8PKb&key=79e80218bfa132ee4a629132c86884), 2026)
+* Geographic and socioeconomic factors in Toronto's differentiated mammogram participation rates ([University of Toronto](https://github.com/caiitlinm/ggr-proj/blob/main/Project_Final_data/CONFERENCE_SLIDES_FINAL.ipynb), 2023)
 
 
 ## EXPERIENCE
@@ -40,16 +54,14 @@ title: ""
 
 ### Operations and Logistics Coordinator | Hart House Debating Club
 *Jun. 2024 - Jun. 2025*
-* Met fundraising mandate of $50,000 (½ of budget); managed budget for travel, training, and events.
+* Met fundraising mandate of $50,000 (½ of budget) for travel, training, and events.
 * Organized the largest tournaments in North America (300+ attendees) and club events (socials, seminars, training).
 * Sent teams to 15+ tournaments; managed try-outs, registration, travel, and accommodation in compliance with University regulations.
 * **Competitive Member (Sep. 2022 - present):** Reached elimination rounds at Worlds, Yale InterVarsity (IV), Princeton IV, Oxford IV, Ottawa IV, Hart House IV, North American Championships, Canadian Nationals, King’s College Open.
-* **Awarded:** Ottawa IV 2025 Top Team, Princeton IV 2023 Best Novice, Hart House IV 2025 Best Adjudicator.
+* **Awarded:** Ottawa IV 2025 Top Team, Princeton IV 2023 Best Novice, Hart House IV 2025 Best Adjudicator, Steven Penner Memorial Honoured Adjudicator Aaward
 
 ### Administrative and Program Assistant | Victoria College at the University of Toronto
 *Apr. 2024 - Aug. 2024*
-* Maintained archival Excel database of administrative documents and ensured procedural compliance.
-* Quantified, visualized, and summarized student survey data using Excel in preparation for presentation.
 * Co-facilitated the Victoria College Mentorship program (interviews, onboarding, Instagram posts).
 \
 \
