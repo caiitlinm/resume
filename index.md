@@ -9,28 +9,26 @@ title: ""
 *Master of Public Policy*  
 * stay tuned!
 
-**University of Toronto** | *Sep. 2022 - present*  
+**University of Toronto** | *Sep. 2022 - May 2026*  
 *Honours Bachelor of Arts, Political Science*
   * **cGPA:** 3.98/4.00
-  * **Awards:** Dean’s Scholar (2023-present); Pauline Mills McGibbon Scholarship for Excellence in Studies (2023, 2024); Goodison-Chamberlin Poetry Prize (2023); British Columbia District Authority & Achievement Scholarships (2022)
-
+  * **Awards:** Top 10 Graduating Students, Political Science; Dean’s Scholar (all years); Goodison-Chamberlin Poetry Prize (2023)
 ### Coursework
 * **Methods:** Quantitative Reasoning and Experimental Research Design, Python and Data Analysis for Social Sciences, Calculus I
 * **Politics:** American Government and Foreign Policy, European Union: Institutions and Politics, Comparative Political and Institutional Development, International Relations, Institutional Theories of Politics
   * [Writing Samples](https://drive.google.com/drive/u/0/folders/1HaipbgditKzYQPFIsxxeTjdouvYOuZTT)
-* **AI:** BlueDot Frontier AI Governance, BlueDot AI Foundations
+* **AI:** BlueDot Frontier AI Governance, BlueDot AI Foundations, TAISI Technical Intensive 
 
 
 ## RESEARCH
 
-**Affiliations:** Trajectory Labs, AIGS Canada
-
 **In progress:**
-* Middle Power Coalition Leverage for AI Governance (with Balint Hargitai et al.)
-  * [Beyond the Brussels Effect: Coalitions and Middle Power Leverage](https://youtu.be/hPiiH1Ueofg?t=1962) — talk ([slides](https://docs.google.com/presentation/d/1NATC10bWcu28zQCAG2BtUgtdLsNLFc8MoH_sSeamnNY/edit?usp=sharing))
-* Toronto AI Safety Institute summer technical intensive (upcoming, topic pending)
+* MARS V Fellowship: Middle power compute-as-leverage strategy evaluation using Australian case study (with Michelle Nie, CNAS)
+* PRISM Fellowship: Qualitative coding analysis of frontier lab safety and governance policy documents (with Aryan Agarwal, OECD)
 
-**Publications:**
+**Publications and Projects:**
+* Chain-of-thought Unfaithfulness from Suggested-Answer Prompt Bias ([Replication](https://github.com/caiitlinm/replication-cot-unfaithfulness) of Turpin et al. 2023)
+* Beyond the Brussels Effect: Coalitions and Middle Power Leverage ([Talk](https://youtu.be/hPiiH1Ueofg?t=1962), [Slides](https://docs.google.com/presentation/d/1NATC10bWcu28zQCAG2BtUgtdLsNLFc8MoH_sSeamnNY/edit?usp=sharing))
 * AI company insiders can bias models for election interference ([LessWrong](https://www.lesswrong.com/editPost?postId=E9hBpPForyHFm8PKb&key=79e80218bfa132ee4a629132c86884), 2026)
 * Geographic and socioeconomic factors in Toronto's differentiated mammogram participation rates ([University of Toronto](https://github.com/caiitlinm/ggr-proj/blob/main/Project_Final_data/CONFERENCE_SLIDES_FINAL.ipynb), 2023)
 
