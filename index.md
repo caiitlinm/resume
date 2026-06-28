@@ -28,7 +28,7 @@ title: ""
 
 **Publications and Projects:**
 * Chain-of-thought Unfaithfulness from Suggested-Answer Prompt Bias ([Replication](https://github.com/caiitlinm/replication-cot-unfaithfulness) of Turpin et al. 2023)
-* Beyond the Brussels Effect: Coalitions and Middle Power Leverage ([Talk](https://youtu.be/hPiiH1Ueofg?t=1962), [Slides](https://docs.google.com/presentation/d/1NATC10bWcu28zQCAG2BtUgtdLsNLFc8MoH_sSeamnNY/edit?usp=sharing))
+* Beyond the Brussels Effect: Coalitions and Middle Power Leverage (2026) ([Talk](https://youtu.be/hPiiH1Ueofg?t=1962), [Slides](https://docs.google.com/presentation/d/1NATC10bWcu28zQCAG2BtUgtdLsNLFc8MoH_sSeamnNY/edit?usp=sharing))
 * AI company insiders can bias models for election interference ([LessWrong](https://www.lesswrong.com/editPost?postId=E9hBpPForyHFm8PKb&key=79e80218bfa132ee4a629132c86884), 2026)
 * Geographic and socioeconomic factors in Toronto's differentiated mammogram participation rates ([University of Toronto](https://github.com/caiitlinm/ggr-proj/blob/main/Project_Final_data/CONFERENCE_SLIDES_FINAL.ipynb), 2023)
 
