@@ -13,24 +13,35 @@ title: ""
 *Honours Bachelor of Arts, Political Science*
   * **cGPA:** 3.98/4.00
   * **Awards:** Top 10 Graduating Students, Political Science; Dean’s Scholar (all years); Goodison-Chamberlin Poetry Prize (2023)
-### Coursework
-* **Methods:** Quantitative Reasoning and Experimental Research Design, Python and Data Analysis for Social Sciences, Calculus I
-* **Politics:** American Government and Foreign Policy, European Union: Institutions and Politics, Comparative Political and Institutional Development, International Relations, Institutional Theories of Politics
-  * [Writing Samples](https://drive.google.com/drive/u/0/folders/1HaipbgditKzYQPFIsxxeTjdouvYOuZTT)
-* **AI:** BlueDot Frontier AI Governance, BlueDot AI Foundations, TAISI Technical Intensive 
+### Relevant Coursework
+* Data Analysis, American Foreign Policy, EU Politics, International Relations, Political Philosophy
 
+## AI SAFETY RESEARCH
 
-## RESEARCH
+**MARS V Fellow | Cambridge AI Safety Hub**
+*May 2026 - Present*
 
-**In progress:**
-* MARS V Fellowship: Middle power compute-as-leverage strategy evaluation using Australian case study (with Michelle Nie, CNAS)
-* PRISM Fellowship: Qualitative coding analysis of frontier lab safety and governance policy documents (with Aryan Agarwal, OECD)
+* Supervised by Michelle Nie (CNAS): evaluating compute-as-leverage AI governance strategies for middle powers  
+* Feasibility study of Australian data center buildouts, stakeholder interviews with industry and policy professionals  
+* Awarded [BlueDot Rapid Grant](https://bluedot.org/programs/rapid-grants) for individual research stipend
 
-**Publications and Projects:**
-* Chain-of-thought Unfaithfulness from Suggested-Answer Prompt Bias ([Replication](https://github.com/caiitlinm/replication-cot-unfaithfulness) of Turpin et al. 2023)
-* Beyond the Brussels Effect: Coalitions and Middle Power Leverage (2026) ([Talk](https://youtu.be/hPiiH1Ueofg?t=1962), [Slides](https://docs.google.com/presentation/d/1NATC10bWcu28zQCAG2BtUgtdLsNLFc8MoH_sSeamnNY/edit?usp=sharing))
-* AI company insiders can bias models for election interference ([LessWrong](https://www.lesswrong.com/editPost?postId=E9hBpPForyHFm8PKb&key=79e80218bfa132ee4a629132c86884), 2026)
-* Geographic and socioeconomic factors in Toronto's differentiated mammogram participation rates ([University of Toronto](https://github.com/caiitlinm/ggr-proj/blob/main/Project_Final_data/CONFERENCE_SLIDES_FINAL.ipynb), 2023)
+**PRISM Summer Fellow | W2D2**
+*May 2026 - Present*
+* Supervised by Aryan Agarwal (OECD): textual analysis of frontier lab policy material changes over time  
+* Time-Series Cross-Sectional qualitative data analysis using NLP to build on METR’s risk policy analyses
+
+**Publications and Projects**
+
+* How the American Executive Could Control AI Companies ([LessWrong](https://www.lesswrong.com/posts/ynstBNgLQzEBiEpLs/how-the-american-executive-could-control-ai-companies), 2026\)  
+* Beyond the Brussels Effect: Coalitions and Middle Power Leverage (Trajectory Labs, 2026\) ([Talk](https://youtu.be/hPiiH1Ueofg?t=1962), [Slides](https://docs.google.com/presentation/d/1NATC10bWcu28zQCAG2BtUgtdLsNLFc8MoH_sSeamnNY/edit?usp=sharing))  
+* AI company insiders can bias models for election interference ([LessWrong](https://www.lesswrong.com/editPost?postId=E9hBpPForyHFm8PKb&key=79e80218bfa132ee4a629132c86884), 2026\)
+* Governing AI in the Wild: an AI Policy [Hackathon](https://luma.com/Governing-AI-In-The-Wild) (Associate Director)
+
+**Coursework**
+
+* Toronto AI Safety Initiative [Summer Intensive](https://www.taisi.ca/summer-intensive): Technical Safety Research Fundamentals (2026)  
+  * Chain-of-Thought Unfaithfulness from Suggested-Answer Prompt Bias ([Replication](https://github.com/caiitlinm/replication-cot-unfaithfulness) of Turpin et al. 2023)
+* BlueDot Frontier AI Governance 
 
 
 ## EXPERIENCE
@@ -45,18 +56,13 @@ title: ""
 
 ### Associate Consultant, Strategy | University of Toronto Consulting Association
 *Sep. 2024 - Apr. 2025*
-* Worked within a team of 6 associates to deliver data-based product solutions for a carbon credit production firm.
-* Analyzed financial and environmental impact data using Python, SQL, and Power BI.
-* Optimized project acquisition process to maximize carbon offset (improved sales package, governance transparency).
-* Increased credibility and visibility against competitors through SEO, certifications, and partnership procurement.
+* Analyzed financial and environmental data (Python, Power BI) to deliver solutions for a carbon credit production firm  
+* Optimized project acquisition process to maximize carbon offsets (improved sales package, governance transparency)
 
 ### Operations and Logistics Coordinator | Hart House Debating Club
 *Jun. 2024 - Jun. 2025*
-* Met fundraising mandate of $50,000 (½ of budget) for travel, training, and events.
-* Organized the largest tournaments in North America (300+ attendees) and club events (socials, seminars, training).
-* Sent teams to 15+ tournaments; managed try-outs, registration, travel, and accommodation in compliance with University regulations.
-* **Competitive Member (Sep. 2022 - present):** Reached elimination rounds at Worlds, Yale InterVarsity (IV), Princeton IV, Oxford IV, Ottawa IV, Hart House IV, North American Championships, Canadian Nationals, King’s College Open.
-* **Awarded:** Ottawa IV 2025 Top Team, Princeton IV 2023 Best Novice, Hart House IV 2025 Best Adjudicator, Steven Penner Memorial Honoured Adjudicator Aaward
+* Met fundraising mandate of $50,000 (½ of budget); managed budget for travel, training, and events  
+* Organized the largest tournaments in North America (300+ attendees) and club events (socials, seminars, training)
 
 ### Administrative and Program Assistant | Victoria College at the University of Toronto
 *Apr. 2024 - Aug. 2024*
